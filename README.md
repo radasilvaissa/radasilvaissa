@@ -1,5 +1,5 @@
 ## Hi there 👋
-## hellooooooooo
+Second Year CS and Finance student at Northeastern University. 
 
 <!--
 **radasilvaissa/radasilvaissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
